@@ -7,7 +7,7 @@ This is a free, fully functional project, made for one specific version of BMP.
 
 You can purchase full project, including all of the Akamai BMP versions to ever exist, with unlimited amount of bots to be used with, simultaneously.
 
-For purchasing full project, contact me at Telegram: [@reverse_gods](https://t.me/reverse_gods)
+For purchasing full project, contact me at Telegram: [@qq527109729](https://t.me/qq527109729)
 
 Output example:
 
